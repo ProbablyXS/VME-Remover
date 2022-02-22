@@ -27,7 +27,7 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/volumeid
 ```css
 🎮 How can i use ? 🎮
 
-1) Download the .exe from release page.
+1) Download and compile the program.
 2) Copy/Past .exe into Voicemeeter directory (ex: C:\Program Files (x86)\VB\Voicemeeter).
 3) Launch .exe.
 4) Done.
