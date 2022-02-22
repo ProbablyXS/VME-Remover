@@ -1,9 +1,8 @@
 # A VoiceMeeter Evaluation Remover
 
+![2022-02-22 12_29_55-About _ Registration info](https://user-images.githubusercontent.com/99107085/155132957-18557f49-9b13-49a1-9702-115790b6da56.png)
 ```css
 [Disclaimer]
-
-![2022-02-22 12_29_55-About _ Registration info](https://user-images.githubusercontent.com/99107085/155132957-18557f49-9b13-49a1-9702-115790b6da56.png)
 
 Used version: Voicemeeter Potato 3.0.1.0
 Use at your own risk! I have tested this tool only on my own system.
