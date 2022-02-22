@@ -1,4 +1,4 @@
-# PLUTONIUM SPOOFER TUTORIAL
+# A VoiceMeeter Evaluation Remover
 
 ```css
 [Disclaimer]
@@ -11,6 +11,7 @@ Works on Windows 10.
 ```css
 🔧 How does it work ? 🔧
 
+Used version: Voicemeeter Potato 3.0.1.0
 The software using Read/Write ProcessMemory for changing an specified address value.
 
 ```
