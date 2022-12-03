@@ -21,7 +21,6 @@ The software using Read/Write ProcessMemory for changing an specified address va
 ➕ Software used ➕
 
 CE for reading memory address
-https://docs.microsoft.com/en-us/sysinternals/downloads/volumeid
 
 ```
 
